@@ -1,0 +1,9 @@
+Text("RESUME: \nLe mandinka est une langue mandingue et une variante\n du mandingue parlée en Guinée au Sénégal, en Gambie\n et en Guinée-Bissau. D’autres variantes du mandingue\n sont parlée en Côte d’Ivoire, au Burkina Faso, au Liberia,\n en Guinée, au Mali, en Sierra Leone, en Gambie et en Guinée-Bissau.Le mandingue fait partie des langues mandées, elles-mêmes rattachées aux langues\n nigéro-congolaises. On l’appelle aussi manding, mandingo, mandinka, mandekinhninkan, mandinque, mande et socé.\nLe mandingue utilise tantôt l'alphabet latin tantôt\n l'alphabet arabe, l'utilisation de ce dernier étant plus traditionnelle.\nMais il existe aussi depuis 1949 une nouvelle écriture spécifique aux langues mandées,\n le n'ko, développée par le linguiste guinéen Souleymane Kante.",style: TextStyle(fontWeight: FontWeight.bold),
+      ),
+      
+      
+      
+      Madame/Monsieur,
+J'ai beaucoup apprécié la qualité de notre échange lors de l'entretien du [date] pour le poste de [nom du poste] et tenais à vous en remercier. Vous m'aviez à cette occasion demandé mes dates de disponibilité pour intégrer l'entreprise si ma candidature est retenue. Ma période de préavis étant de [durée], je pourrais théoriquement prendre mes nouvelles fonctions le […].
+Cependant, en cas de réponse favorable de votre part et selon vos propres contraintes, je suis prêt[e] à négocier un départ anticipé, en fonction du temps nécessaire pour la passation. Je me tiens à votre disposition pour tout renseignement complémentaire et échanger sur ce délai.
+Dans cette attente, je vous prie d'agréer…
